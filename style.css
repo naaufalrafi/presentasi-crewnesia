@@ -1,0 +1,11 @@
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.nav-item a {
+  color: #615457;
+}
+
+.nav-item a:hover {
+  color: #161634;
+}
