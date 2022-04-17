@@ -2,6 +2,16 @@ body {
   font-family: 'Montserrat Alternates', sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
 .nav-item a {
   color: #615457;
 }
@@ -82,10 +92,10 @@ body {
   left: 7.5%;
 }
 .progress.blue .progress-bar {
-  border-color: #049dff;
+  border-color: #bc7450;
 }
 .progress.blue .progress-value {
-  color: #049dff;
+  color: #bc7450;
 }
 .progress.blue .progress-left .progress-bar {
   animation: loading-2 1.5s linear forwards 1.8s;
@@ -100,10 +110,10 @@ body {
   animation: loading-3 1s linear forwards 1.8s;
 }
 .progress.pink .progress-bar {
-  border-color: #ed687c;
+  border-color: #bc7450;
 }
 .progress.pink .progress-value {
-  color: #ed687c;
+  color: #bc7450;
 }
 .progress.pink .progress-left .progress-bar {
   animation: loading-4 0.4s linear forwards 1.8s;
